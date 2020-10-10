@@ -9,8 +9,8 @@ jpeg / png / gif / svg
 1. `gulp`
 1. `./images/dest/`に圧縮された画像が格納される。
 
-### 使い方　その他
-1. `gulp clean` で`./images/dest/`内のファイルを全て削除
+#### その他機能
+1. `gulp clean` : `./images/dest/`内のファイルを全て削除
 
 ### インストール
 `npm i`
